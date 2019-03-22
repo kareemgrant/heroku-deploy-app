@@ -10,8 +10,9 @@ class App extends Component {
         <p>Hello from Kareem Grant</p>
 
         <img src="https://images.unsplash.com/photo-1515619363794-e826f7de3487?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" />
+
+        <p>Rainforest pic</p>
       </div>
-      <p>Rainforest pic</p>
     );
   }
 }
